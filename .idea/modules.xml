@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JustWrite.iml" filepath="$PROJECT_DIR$/JustWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router_annotation/router_annotation.iml" filepath="$PROJECT_DIR$/router_annotation/router_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router_compiler/router_compiler.iml" filepath="$PROJECT_DIR$/router_compiler/router_compiler.iml" />
+    </modules>
+  </component>
+</project>

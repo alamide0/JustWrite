@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/annotations" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="aopalliance-1.0" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="spring-aop-5.2.6.RELEASE" level="project" />
+    <orderEntry type="library" name="spring-aop-5.2.6.RELEASE (2)" level="project" />
+    <orderEntry type="library" name="aspectjweaver-1.8.0.RELEASE" level="project" />
+    <orderEntry type="library" name="aspectjrt-1.8.0.RELEASE" level="project" />
+    <orderEntry type="library" name="aspectjtools-1.8.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.6" level="project" />
+    <orderEntry type="library" name="Maven: com.google.auto.service:auto-service-annotations:1.0-rc6" level="project" />
+    <orderEntry type="library" name="Maven: club.justwrite:AnotationProcessor:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="module" module-name="router_compiler" />
+    <orderEntry type="module" module-name="router_annotation" />
+  </component>
+</module>
