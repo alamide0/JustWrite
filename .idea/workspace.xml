@@ -517,7 +517,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode0029">
+  <component name="RunManager" selected="Application.Content">
+    <configuration name="Content" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.string.Content" />
+      <module name="JustWrite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.justwrite.java.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="LeetCode0029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.LeetCode0029" />
       <module name="JustWrite" />
@@ -531,17 +542,6 @@
     </configuration>
     <configuration name="LeetCode0238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.LeetCode0238" />
-      <module name="JustWrite" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LeetCode1114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.LeetCode1114" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -617,17 +617,17 @@
     <list>
       <item itemvalue="Application.Temp (1)" />
       <item itemvalue="Application.StatisticsLines" />
-      <item itemvalue="Application.LeetCode1114" />
       <item itemvalue="Application.LeetCode0238" />
       <item itemvalue="Application.LeetCode0029" />
+      <item itemvalue="Application.Content" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Content" />
         <item itemvalue="Application.LeetCode0029" />
         <item itemvalue="Application.LeetCode0238" />
         <item itemvalue="Application.StatisticsLines" />
         <item itemvalue="Application.Temp (1)" />
-        <item itemvalue="Application.LeetCode1114" />
       </list>
     </recent_temporary>
   </component>
