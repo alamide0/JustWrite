@@ -18,21 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1575">
-              <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
-              <folding>
-                <element signature="e#24329#24330#0" expanded="true" />
-                <element signature="e#24394#24395#0" expanded="true" />
-                <element signature="e#66769#66770#0" expanded="true" />
-                <element signature="e#66826#66827#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AbstractMap.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,7 +30,7 @@
       <file leaf-file-name="LeetCode0029.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0029.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
+            <state relative-caret-position="1080">
               <caret line="72" column="9" selection-start-line="32" selection-start-column="8" selection-end-line="72" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,7 +102,7 @@
       <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44220">
+            <state relative-caret-position="44250">
               <caret line="3019" column="23" selection-start-line="3019" selection-start-column="23" selection-end-line="3019" selection-end-column="23" />
               <folding>
                 <element signature="e#5027#5028#0" expanded="true" />
@@ -314,8 +299,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -331,7 +317,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -521,11 +506,12 @@
       <workItem from="1590564044348" duration="31201000" />
       <workItem from="1590998210593" duration="16061000" />
       <workItem from="1591327245222" duration="718000" />
+      <workItem from="1591327970842" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140718000" />
+    <option name="totallyTimeSpent" value="141426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,11 +541,11 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32923076" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.25846153" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32923076" />
       <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32820514" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.26800978" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32820514" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.27106228" />
       <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32923076" />
       <window_info id="Learn" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -573,6 +559,7 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Spring" order="13" />
@@ -580,7 +567,6 @@
       <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4993895" visible="true" weight="0.30769232" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="ASMPlugin" order="8" weight="0.45604396" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32893774" />
@@ -604,7 +590,7 @@
       <window_info id="Structure" order="1" sideWeight="0.50152904" side_tool="true" weight="0.2905983" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32923076" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" id="ASMPlugin" order="8" weight="0.45604396" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,16 +635,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/LeetCode-1114-按顺序打印.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -995,7 +971,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44220">
+        <state relative-caret-position="44250">
           <caret line="3019" column="23" selection-start-line="3019" selection-start-column="23" selection-end-line="3019" selection-end-column="23" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
@@ -1006,7 +982,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0029.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
+        <state relative-caret-position="1080">
           <caret line="72" column="9" selection-start-line="32" selection-start-column="8" selection-end-line="72" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1050,6 +1026,14 @@
           <first_editor>
             <caret column="78" selection-start-column="78" selection-end-column="78" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
