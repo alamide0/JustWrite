@@ -6,9 +6,7 @@ public class Printer {
     public static void print(Object info) {
 
         if (info.getClass().isArray()) {
-
             Class cls = info.getClass().getComponentType();
-
             if (cls == String.class) {
                 String[] strings = (String[]) info;
                 for (String string : strings) {
@@ -16,6 +14,11 @@ public class Printer {
                 }
             } else if (cls == int.class) {
                 System.out.println(Arrays.toString((int[]) info));
+            } else if (cls == int[].class) {
+                int[][] ints = (int[][]) info;
+                for (int[] i : ints) {
+                    Printer.print(i);
+                }
             } else {
                 System.out.println(Arrays.toString((Object[]) info));
             }

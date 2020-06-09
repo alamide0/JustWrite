@@ -46,8 +46,13 @@ public class Temp {
         linkedHashMap.put("1", "hello");
         linkedHashMap.put("2", "你好");
         linkedHashMap.put("3", "你好ma");
+        linkedHashMap.put("123", "你好ma");
+        linkedHashMap.put("0", "你好ma");
+        linkedHashMap.put("01", "你好ma");
+        linkedHashMap.put("01", "你ma");
         Printer.print(linkedHashMap);
     }
+
 
     public <T extends Parent> T print(int id){
         return (T) new Child();
