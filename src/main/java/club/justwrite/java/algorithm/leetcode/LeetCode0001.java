@@ -1,6 +1,7 @@
 package club.justwrite.java.algorithm.leetcode;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.algorithm.leetcode.test.MainMethod;
+import club.justwrite.java.algorithm.leetcode.test.Tester;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -14,12 +15,16 @@ public class LeetCode0001 {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        Printer.print(solution.twoSum(new int[]{2, 7, 11, 15}, 9));
-        Printer.print(solution.twoSum(new int[]{3, 2, 4}, 6));
-        Printer.print(solution.twoSum(new int[]{5, 75, 25}, 100));
+        Object[] objects = new Object[]{
+                new Object[]{new int[]{2, 7, 11, 15}, 9}, new int[]{1, 2},
+                new Object[]{new int[]{3, 2, 4}, 6}, new int[]{1, 2},
+                new Object[]{new int[]{5, 75, 25}, 100}, new int[]{1, 2}
+        };
+        Tester.test(objects, solution);
     }
 
     static class Solution {
+        @MainMethod
         public int[] twoSum(int[] nums, int target) {
             int count = 0;
             Map<Integer, Integer> cache = new HashMap<>();//缓存
