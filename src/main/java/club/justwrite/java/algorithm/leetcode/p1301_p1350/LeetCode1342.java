@@ -36,4 +36,3 @@ public class LeetCode1342 {
         }
     }
 }
-

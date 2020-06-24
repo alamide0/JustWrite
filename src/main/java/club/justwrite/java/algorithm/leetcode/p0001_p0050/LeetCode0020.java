@@ -51,4 +51,3 @@ public class LeetCode0020 {
         }
     }
 }
-

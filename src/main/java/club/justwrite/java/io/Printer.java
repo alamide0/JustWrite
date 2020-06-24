@@ -29,6 +29,8 @@ public class Printer {
 
     }
 
+
+
     public static void printDivider(String divider, int dividerLength) {
         if (dividerLength <= 0) return;
         StringBuilder builder = new StringBuilder();
