@@ -1,11 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.test;
 
-import club.justwrite.java.io.Printer;
-
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -23,7 +18,7 @@ public class LeetCodeManager {
     private static final String BLOG_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode";
 
     public static void main(String[] args) {
-
+        RandomAccessFile randomAccessFile;
         LeetCodeManager leetCodeManager = new LeetCodeManager();
         leetCodeManager.moveFiles();
     }
