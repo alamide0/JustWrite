@@ -85,9 +85,11 @@ public class GsonTrain {
         print(date.getYear());
     }
 
+    @Execute
     private static void typeAdapter() {
         Container container = new Container();
-        container.hashMap.put("name", "zhaoxiaosi");
+        container.name = "dajiahao";
+        container.hashMap.put("$name", "zhaoxiaosi");
         Gson gson = new Gson();
         print(gson.toJson(container));
     }
@@ -109,6 +111,7 @@ public class GsonTrain {
 
 
     private static class Container {
+        public String name;
         HashMap<String, String> hashMap = new HashMap<>();
     }
 

@@ -18,7 +18,6 @@ public class LeetCodeManager {
     private static final String BLOG_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode";
 
     public static void main(String[] args) {
-        RandomAccessFile randomAccessFile;
         LeetCodeManager leetCodeManager = new LeetCodeManager();
         leetCodeManager.moveFiles();
     }
