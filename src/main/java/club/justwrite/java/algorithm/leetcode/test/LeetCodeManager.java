@@ -27,7 +27,9 @@ public class LeetCodeManager {
         //move java 源代码文件
         List<String> javas = findFiles(DIR_PATH);
         for (String name : javas) {
-            moveAndModifyPackage(name);
+            if (name.contains("LeetCode")) {
+                moveAndModifyPackage(name);
+            }
         }
 
         //move blog 下面的文件
@@ -95,6 +97,8 @@ public class LeetCodeManager {
                 count++;
                 if (!hasOverridePackage && s.contains("package")) {
                     dest.write("package club.justwrite.java.algorithm.leetcode." + targetP + ";");
+                    dest.write("\nimport club.justwrite.java.algorithm.leetcode.ListNode;");
+                    dest.write("\nimport club.justwrite.java.algorithm.leetcode.TreeNode;");
                     hasOverridePackage = true;
                 } else {
                     dest.write(s);

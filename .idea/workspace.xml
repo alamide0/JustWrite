@@ -1,61 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="fe79df05-55a1-4ed5-99a3-504257866ea1" name="Revert &quot;index：提交README.md&quot;" comment="Revert &quot;index：提交README.md&quot;&#10;&#10;This reverts commit a6c8269">
-      <change beforePath="$PROJECT_DIR$/blog/algorithm/leetcode/p0001_p0050/LeetCode-0016-最接近的三数之和.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/algorithm/leetcode/p0201_p0250/LeetCode-0201-数字范围按位与.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0016.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0021.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0201.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0251_p0300/LeetCode0260.java" beforeDir="false" />
-    </list>
+    <list id="fe79df05-55a1-4ed5-99a3-504257866ea1" name="Revert &quot;index：提交README.md&quot;" comment="Revert &quot;index：提交README.md&quot;&#10;&#10;This reverts commit a6c8269" />
     <list default="true" id="dd3a8ad8-40ca-4684-b2b2-a77d46ff28e5" name="Default" comment="index：提交README.md">
-      <change afterPath="$PROJECT_DIR$/blog/java/thinkinginjava/第14章类型信息.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/Acessss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/DefaultClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/Inter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/collection/Performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/collection/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/collection/TestParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/collection/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/algorithm/leetcode/p0001_p0050/LeetCode-0015-三数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/algorithm/leetcode/p0001_p0050/LeetCode-0015-三数之和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/android/base/Activity-启动流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/android/base/Activity-启动流程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/android/base/Fragment.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/android/base/Fragment.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/android/base/ViewModel.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/android/base/ViewModel.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/java/base/collection/Collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/java/base/collection/Collection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/java/base/collection/List.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/java/base/collection/List.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0009.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0013.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0015.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0020.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0026.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0026.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0029.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0029.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0067.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0067.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0070.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0070.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0238.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0448.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0451_p0500/LeetCode0473.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0451_p0500/LeetCode0473.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0501_p0550/LeetCode0542.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0501_p0550/LeetCode0542.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0551_p0600/LeetCode0560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0551_p0600/LeetCode0560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0551_p0600/LeetCode0567.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0551_p0600/LeetCode0567.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1001_p1050/LeetCode1014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1001_p1050/LeetCode1014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1101_p1150/LeetCode1114.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1101_p1150/LeetCode1114.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1251_p1300/LeetCode1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1251_p1300/LeetCode1300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1301_p1350/LeetCode1342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1301_p1350/LeetCode1342.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1408.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1408.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JustWrite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JustWrite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0104.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,8 +43,17 @@
       <file leaf-file-name="LeetCodeManager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="683">
+              <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1518.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,67 +61,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode-1431-拥有最多糖果的孩子.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/p1401_p1450/LeetCode-1431-拥有最多糖果的孩子.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode-1408-数组中的字符串匹配.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/p1401_p1450/LeetCode-1408-数组中的字符串匹配.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="File.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="240" column="31" selection-start-line="240" selection-start-column="31" selection-end-line="240" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BufferedWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/StringWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1480">
-              <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Files.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="626" column="23" selection-start-line="626" selection-start-column="23" selection-end-line="626" selection-end-column="23" />
+            <state relative-caret-position="8610">
+              <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
+              <folding>
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,20 +98,22 @@
       <find>acquire</find>
       <find>acquire(</find>
       <find>putV</find>
-      <find>equals</find>
       <find>entrySet</find>
       <find>table =</find>
       <find>put</find>
       <find>toString</find>
       <find>put(</find>
       <find>size =</find>
-      <find>add</find>
       <find>remove(</find>
       <find>add(</find>
       <find>get(</find>
       <find>iterator</find>
       <find>iterator(</find>
       <find>subList</find>
+      <find>add</find>
+      <find>remove</find>
+      <find>equals</find>
+      <find>equals(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,56 +122,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blog/java/base/collection/ArrayList.md" />
-        <option value="$PROJECT_DIR$/blog/java/base/collection/List.md" />
-        <option value="$PROJECT_DIR$/blog/java/String-Immutable.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/Inter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/DefaultClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/array/Acessss.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0008.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0008-字符串转整数.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0125-验证回文串.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0125.java" />
-        <option value="$PROJECT_DIR$/blog/android/base/Fragment.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java" />
-        <option value="$PROJECT_DIR$/blog/android/base/Activity-启动流程.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1408.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-1408-数组中的字符串匹配.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/MainMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/Tester.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/Printer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/TestParams.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0003.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0003-无重复字符的最长子串.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0560.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0560-和为K的子数组.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0007.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0005.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0013.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0013-罗马数字转整数.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0020.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0020-有效的括号.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0026.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0026-删除数组中的重复项.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0067.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0067-二进制求和.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0005-最长回文子串.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0007-整数反转.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0021.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0021-合并两个有序链表.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0015-三数之和.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0016-最接近的三数之和.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0016.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0201.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0201-数字范围按位与.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0260.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/io/FileUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCode1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0001.java" />
         <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0209.java" />
+        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0209-长度最小的子数组.md" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/T.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0515.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1071.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0415.java" />
+        <option value="$PROJECT_DIR$/blog/life/第二次面试.md" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/serialize/gson/GsonTrain.java" />
+        <option value="$PROJECT_DIR$/blog/android/Android-事件分发机制.md" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0718.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0108.java" />
+        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0180-将有序数组转换为二叉搜索树.md" />
+        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0415-字符串相加.md" />
+        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0515-在每个树行中找最大值.md" />
+        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0718-最长重复子数组.md" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0104.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0525.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/DFA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0101.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0143.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0111.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0651_p0700/LeetCode0662.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0234.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0867.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0925.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0628.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0028.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0763.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1518.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0232.java" />
         <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" />
       </list>
     </option>
@@ -343,7 +269,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -365,39 +292,6 @@
             <path>
               <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
               <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="p0001_p0050" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="thinkinginjava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -462,6 +356,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="club" type="462c0819:PsiDirectoryNode" />
+              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="p1501_p1550" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
@@ -478,17 +385,6 @@
             </path>
             <path>
               <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -499,12 +395,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Array&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayL&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Temp&#9;FILE&#9;file:///Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/Temp.java&#10;ProceedingJoinPoint&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint&#10;TypeKin&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/javax/lang/model/type/TypeKind.java&#10;Modifier&#9;PSI&#9;JAVA://java.lang.reflect.Modifier&#10;Fi&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java&#10;FileUtil&#9;PSI&#9;JAVA://club.justwrite.java.io.FileUtils&#10;BufferWr&#9;PSI&#9;JAVA://java.io.BufferedWriter" />
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Array&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayL&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Temp&#9;FILE&#9;file:///Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/Temp.java&#10;ProceedingJoinPoint&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint&#10;TypeKin&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/javax/lang/model/type/TypeKind.java&#10;Modifier&#9;PSI&#9;JAVA://java.lang.reflect.Modifier&#10;Fi&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java&#10;FileUtil&#9;PSI&#9;JAVA://club.justwrite.java.io.FileUtils&#10;BufferWr&#9;PSI&#9;JAVA://java.io.BufferedWriter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -548,8 +443,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.LeetCodeManager">
-    <configuration name="LeetCode0001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0001" />
+    <configuration name="LeetCode0232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0232" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -559,8 +454,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LeetCode0016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0016" />
+    <configuration name="LeetCode0763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0763" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -570,19 +465,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LeetCode0021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0021" />
+    <configuration name="LeetCode1518 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.p1501_p1550.LeetCode1518" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.p1501_p1550.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LeetCode0201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0201" />
+    <configuration name="LeetCode1518" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode1518" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -598,7 +493,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -645,19 +540,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode0021" />
-      <item itemvalue="Application.LeetCode0016" />
-      <item itemvalue="Application.LeetCode0201" />
+      <item itemvalue="Application.LeetCode0763" />
+      <item itemvalue="Application.LeetCode1518" />
+      <item itemvalue="Application.LeetCode0232" />
       <item itemvalue="Application.LeetCodeManager" />
-      <item itemvalue="Application.LeetCode0001" />
+      <item itemvalue="Application.LeetCode1518 (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LeetCodeManager" />
-        <item itemvalue="Application.LeetCode0001" />
-        <item itemvalue="Application.LeetCode0201" />
-        <item itemvalue="Application.LeetCode0016" />
-        <item itemvalue="Application.LeetCode0021" />
+        <item itemvalue="Application.LeetCode1518 (1)" />
+        <item itemvalue="Application.LeetCode0232" />
+        <item itemvalue="Application.LeetCode1518" />
+        <item itemvalue="Application.LeetCode0763" />
       </list>
     </recent_temporary>
   </component>
@@ -699,7 +594,34 @@
       <workItem from="1591880610288" duration="14616000" />
       <workItem from="1592030444028" duration="56702000" />
       <workItem from="1592482553551" duration="4175000" />
-      <workItem from="1592532242797" duration="74675000" />
+      <workItem from="1592532242797" duration="94180000" />
+      <workItem from="1593431530979" duration="6899000" />
+      <workItem from="1593599926208" duration="1045000" />
+      <workItem from="1593605881367" duration="199000" />
+      <workItem from="1593662526385" duration="7895000" />
+      <workItem from="1593765015439" duration="6379000" />
+      <workItem from="1594771239016" duration="419000" />
+      <workItem from="1595906998759" duration="1242000" />
+      <workItem from="1597285756427" duration="34087000" />
+      <workItem from="1597648703216" duration="14600000" />
+      <workItem from="1597740713091" duration="10596000" />
+      <workItem from="1597887308996" duration="303000" />
+      <workItem from="1597974001939" duration="1272000" />
+      <workItem from="1597999095933" duration="3008000" />
+      <workItem from="1598233686261" duration="332000" />
+      <workItem from="1599629429222" duration="18000" />
+      <workItem from="1600150763013" duration="3532000" />
+      <workItem from="1600154414793" duration="53000" />
+      <workItem from="1600154489296" duration="566000" />
+      <workItem from="1600155075878" duration="76000" />
+      <workItem from="1600155189033" duration="111000" />
+      <workItem from="1600155319565" duration="910000" />
+      <workItem from="1600161767983" duration="164000" />
+      <workItem from="1600163238187" duration="15000" />
+      <workItem from="1603162036928" duration="2955000" />
+      <workItem from="1603170997071" duration="4214000" />
+      <workItem from="1603249489329" duration="6683000" />
+      <workItem from="1603333330501" duration="5027000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm: 完成 LeetCode 1342">
       <created>1591967774933</created>
@@ -848,11 +770,32 @@
       <option name="project" value="LOCAL" />
       <updated>1592995159677</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="algorithm：LeetCode 0180 0209 0415 0515 0718">
+      <created>1593769684594</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1593769684594</updated>
+    </task>
+    <task id="LOCAL-00023" summary="backup：备份">
+      <created>1603165433820</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1603165433820</updated>
+    </task>
+    <task id="LOCAL-00024" summary="backup：备份">
+      <created>1603165473220</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1603165473220</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353516000" />
+    <option name="totallyTimeSpent" value="485621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,74 +808,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-220" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.32923076" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3294621" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" sideWeight="0.50152904" side_tool="true" weight="0.2905983" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
       <window_info anchor="right" id="ASMPlugin" order="8" weight="0.45543346" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32820514" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.23443224" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.203663" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.32923076" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3294621" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.23223443" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.14853057" />
-      <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32923076" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32893774" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.14853057" />
+      <window_info anchor="right" id="Database" order="5" />
       <window_info id="Learn" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.14813344" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32923076" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969475" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893774" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Spring" order="12" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.11208791" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.32923076" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32820514" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969475" />
-      <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32923076" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.32923076" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3294621" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32893774" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49847096" visible="true" weight="0.22832723" />
-      <window_info id="Learn" order="6" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Structure" order="1" sideWeight="0.50152904" side_tool="true" weight="0.2905983" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="ASMPlugin" order="8" weight="0.45543346" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -987,7 +897,9 @@
     <MESSAGE value="algorithm：LeetCode 0021" />
     <MESSAGE value="leetcode：feature 新建文件管理器，用来把 LeetCode 分发到各个文件夹" />
     <MESSAGE value="index：提交README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="index：提交README.md" />
+    <MESSAGE value="algorithm：LeetCode 0180 0209 0415 0515 0718" />
+    <MESSAGE value="backup：备份" />
+    <option name="LAST_COMMIT_MESSAGE" value="backup：备份" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -999,86 +911,137 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0003.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="690">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/TestParams.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
+          <caret line="40" column="9" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0560-和为K的子数组.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="645">
-            <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0003-无重复字符的最长子串.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0560.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="23" lean-forward="true" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="355">
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0007.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="216" column="6" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0525.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <caret line="33" column="56" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-            <element signature="e#82971#82972#0" expanded="true" />
-            <element signature="e#83020#83021#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10710">
+          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4485">
+          <caret line="332" column="6" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1089,357 +1052,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        <state relative-caret-position="2475">
+          <caret line="165" column="29" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        <state relative-caret-position="6570">
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="340" column="6" selection-start-line="340" selection-start-column="6" selection-end-line="340" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="19" column="85" selection-start-line="19" selection-start-column="85" selection-end-line="19" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/java/base/collection/ArrayList.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-874">
-            <caret line="161" column="21" lean-forward="true" selection-start-line="161" selection-start-column="21" selection-end-line="161" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0013.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="2190">
+          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0013-罗马数字转整数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="185">
-            <caret line="47" selection-start-line="47" selection-end-line="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0020.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0026.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0067.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="40" column="50" lean-forward="true" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0005-最长回文子串.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0007-整数反转.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0020-有效的括号.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="590">
-            <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0026-删除数组中的重复项.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" selection-start-line="36" selection-end-line="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0067-二进制求和.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0002.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/DFA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0002-两数相加.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0016-最接近的三数之和.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="195">
-            <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0015-三数之和.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0021-合并两个有序链表.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0021.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0201-数字范围按位与.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0201.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/io/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/StringWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1480">
-          <caret line="64" column="11" selection-start-line="64" selection-start-column="11" selection-end-line="64" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="626" column="23" selection-start-line="626" selection-start-column="23" selection-end-line="626" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/BufferedWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0260.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0016.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1408.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1401_p1450/LeetCode1431.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="585">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1301_p1350/LeetCode1342.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="165">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JustWrite.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0111.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="240" column="31" selection-start-line="240" selection-start-column="31" selection-end-line="240" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0001.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0651_p0700/LeetCode0662.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/p1401_p1450/LeetCode-1431-拥有最多糖果的孩子.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0143.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/algorithm/leetcode/p1401_p1450/LeetCode-1408-数组中的字符串匹配.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0867.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8610">
+          <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0925.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="70" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0628.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0028.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0763.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="159" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="159" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1518.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0232.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1685#1686#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="683">
+          <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
         </state>
       </provider>
     </entry>

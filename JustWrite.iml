@@ -29,5 +29,6 @@
     <orderEntry type="library" name="Maven: club.justwrite:AnotationProcessor:1.0-SNAPSHOT" level="project" />
     <orderEntry type="module" module-name="router_compiler" />
     <orderEntry type="module" module-name="router_annotation" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.10.6" level="project" />
   </component>
 </module>
