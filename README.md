@@ -1,8 +1,8 @@
 # JustWrite
 
 ## 算法
-[LeetCode 题目](./blog/algorithm/leetcode)  
-[LeetCode 代码](./src/main/java/club/justwrite/java/algorithm/leetcode)
+[LeetCode 题目](./LeetCodeIndexer.md)  
+
 
 ## Java
 [Java 基础](./blog/java/base)  
