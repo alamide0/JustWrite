@@ -1,11 +1,15 @@
 package club.justwrite.java.algorithm.leetcode.test;
 
+import club.justwrite.java.io.Printer;
+
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+import java.util.regex.Pattern;
 
 /**
  * @author ACC
@@ -16,16 +20,68 @@ public class LeetCodeManager {
 
     private static final String DIR_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/algorithm/leetcode";
     private static final String BLOG_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode";
+    private static final String INDEXER_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode/Index.md";
 
     public static void main(String[] args) {
         LeetCodeManager leetCodeManager = new LeetCodeManager();
-        leetCodeManager.moveFiles();
+//        leetCodeManager.moveFiles();
+        try {
+            leetCodeManager.generateIndexer();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void generateIndexer() throws IOException {
+        File file = new File(DIR_PATH);
+
+        File[] files = file.listFiles();
+        List<String> dirList = new ArrayList<>();
+
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(INDEXER_PATH));
+        bufferedWriter.write("# LeetCode Indexer\n");
+
+        String pattern = "^p\\d{4}_p\\d{4}$";
+        for (File f : files) {
+            if (!f.isDirectory() || !Pattern.matches(pattern, f.getName())) continue;
+            dirList.add(f.getAbsolutePath());
+        }
+
+        Collections.sort(dirList);
+
+        for (String dir : dirList) {
+            String simpleName = dir.substring(DIR_PATH.length() + 1);
+            bufferedWriter.write("## " + simpleName.substring(1, 5) + "-" + simpleName.substring(7));
+            bufferedWriter.newLine();
+            File[] fs = new File(dir).listFiles();
+
+            List<String> fileList = new ArrayList<>(fs.length);
+            for (File f : fs) {
+                fileList.add(f.getName());
+            }
+
+            Collections.sort(fileList);
+
+            int count = 0;
+            for (String fn : fileList) {
+                bufferedWriter.write("[" + fn.substring("LeetCode".length(), "LeetCode".length() + 4) + "](" + "../../../src/main/java/club/justwrite/java/algorithm/leetcode/" + simpleName + "/" + fn + ")\t\t");
+                count++;
+                if (count / 10 == 1) {
+                    count = 1;
+                    bufferedWriter.write("\n");
+                }
+            }
+            bufferedWriter.newLine();
+        }
+
+        bufferedWriter.flush();
+        bufferedWriter.close();
     }
 
     public void moveFiles() {
 
         //move java 源代码文件
-        List<String> javas = findFiles(DIR_PATH);
+        List<String> javas = findFiles(DIR_PATH + "/ptemp");
         for (String name : javas) {
             if (name.contains("LeetCode")) {
                 moveAndModifyPackage(name);
@@ -97,8 +153,6 @@ public class LeetCodeManager {
                 count++;
                 if (!hasOverridePackage && s.contains("package")) {
                     dest.write("package club.justwrite.java.algorithm.leetcode." + targetP + ";");
-                    dest.write("\nimport club.justwrite.java.algorithm.leetcode.ListNode;");
-                    dest.write("\nimport club.justwrite.java.algorithm.leetcode.TreeNode;");
                     hasOverridePackage = true;
                 } else {
                     dest.write(s);
