@@ -68,7 +68,7 @@ public class LeetCodeManager {
                 count++;
                 if (count / 10 == 1) {
                     count = 1;
-                    bufferedWriter.write("\n");
+                    bufferedWriter.write("\n\n");
                 }
             }
             bufferedWriter.newLine();
