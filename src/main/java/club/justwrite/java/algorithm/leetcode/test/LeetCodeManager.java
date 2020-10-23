@@ -20,7 +20,7 @@ public class LeetCodeManager {
 
     private static final String DIR_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/algorithm/leetcode";
     private static final String BLOG_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode";
-    private static final String INDEXER_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode/Index.md";
+    private static final String INDEXER_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/LeetCodeIndexer.md";
 
     public static void main(String[] args) {
         LeetCodeManager leetCodeManager = new LeetCodeManager();
@@ -64,7 +64,7 @@ public class LeetCodeManager {
 
             int count = 0;
             for (String fn : fileList) {
-                bufferedWriter.write("[" + fn.substring("LeetCode".length(), "LeetCode".length() + 4) + "](" + "../../../src/main/java/club/justwrite/java/algorithm/leetcode/" + simpleName + "/" + fn + ")\t\t");
+                bufferedWriter.write("[" + fn.substring("LeetCode".length(), "LeetCode".length() + 4) + "](" + "./src/main/java/club/justwrite/java/algorithm/leetcode/" + simpleName + "/" + fn + ")\t\t");
                 count++;
                 if (count / 10 == 1) {
                     count = 1;
