@@ -14,12 +14,17 @@ public class Temp {
 
     public static void main(String[] args) {
 
-        long t = System.currentTimeMillis();
+        int a = 1 << 3;
 
+        int b = 1 << 3 | 1 << 4 | 1 << 2 | 1 << 1;
 
-        Printer.print(TimeZone.getDefault().getOffset(new Date().getTime())/1000/3600);
-        Printer.print(new Date());
-        Printer.print(t - t % (3600 * 24 * 1000) + 3600 * 24 * 1000 - TimeZone.getDefault().getOffset(System.currentTimeMillis()));
+        Printer.print(a + ", " + b);
+        Printer.print(Integer.toBinaryString(a));
+        Printer.print(Integer.toBinaryString(b));
+
+        Printer.print((a & b) == a);
+        Printer.print( Integer.toBinaryString(a ^ b));
+        Printer.print(a ^ b);
     }
 
 

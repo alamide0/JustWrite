@@ -24,7 +24,7 @@ public class LeetCodeManager {
 
     public static void main(String[] args) {
         LeetCodeManager leetCodeManager = new LeetCodeManager();
-//        leetCodeManager.moveFiles();
+        leetCodeManager.moveFiles();
         try {
             leetCodeManager.generateIndexer();
         } catch (IOException e) {
@@ -81,18 +81,18 @@ public class LeetCodeManager {
     public void moveFiles() {
 
         //move java 源代码文件
-        List<String> javas = findFiles(DIR_PATH + "/ptemp");
+        List<String> javas = findFiles(DIR_PATH + "/ptoday");
         for (String name : javas) {
             if (name.contains("LeetCode")) {
                 moveAndModifyPackage(name);
             }
         }
 
-        //move blog 下面的文件
-        List<String> blogs = findFiles(BLOG_PATH);
-        for (String name : blogs) {
-            moveBlogs(name);
-        }
+//        //move blog 下面的文件
+//        List<String> blogs = findFiles(BLOG_PATH);
+//        for (String name : blogs) {
+//            moveBlogs(name);
+//        }
     }
 
     private void moveBlogs(String blogName) {

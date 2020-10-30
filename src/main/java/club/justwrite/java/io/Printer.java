@@ -19,6 +19,8 @@ public class Printer {
                 for (int[] i : ints) {
                     Printer.print(i);
                 }
+            }else if(cls == char.class) {
+                System.out.println(Arrays.toString((char[]) info));
             } else {
                 System.out.println(Arrays.toString((Object[]) info));
             }
