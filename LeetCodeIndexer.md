@@ -4,7 +4,7 @@
 
 [0020](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0020.java)		[0026](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0026.java)		[0027](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0027.java)		[0028](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0028.java)		[0029](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0029.java)		[0043](./src/main/java/club/justwrite/java/algorithm/leetcode/p0001_p0050/LeetCode0043.java)		
 ## 0051-0100
-[0067](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0067.java)		[0070](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0070.java)		[0088](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0088.java)		
+[0053](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0053.java)		[0067](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0067.java)		[0070](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0070.java)		[0088](./src/main/java/club/justwrite/java/algorithm/leetcode/p0051_p0100/LeetCode0088.java)		
 ## 0101-0150
 [0101](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0101.java)		[0104](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0104.java)		[0108](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0108.java)		[0109](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0109.java)		[0110](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0110.java)		[0111](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0111.java)		[0125](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0125.java)		[0129](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0129.java)		[0141](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0141.java)		[0143](./src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0143.java)		
 
@@ -12,13 +12,15 @@
 ## 0151-0200
 [0167](./src/main/java/club/justwrite/java/algorithm/leetcode/p0151_p0200/LeetCode0167.java)		
 ## 0201-0250
-[0209](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0209.java)		[0226](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0226.java)		[0232](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0232.java)		[0234](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0234.java)		[0238](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0238.java)		[0242](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0242.java)		
+[0209](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0209.java)		[0226](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0226.java)		[0231](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0231.java)		[0232](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0232.java)		[0234](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0234.java)		[0238](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0238.java)		[0242](./src/main/java/club/justwrite/java/algorithm/leetcode/p0201_p0250/LeetCode0242.java)		
 ## 0251-0300
 [0268](./src/main/java/club/justwrite/java/algorithm/leetcode/p0251_p0300/LeetCode0268.java)		[0283](./src/main/java/club/justwrite/java/algorithm/leetcode/p0251_p0300/LeetCode0283.java)		
 ## 0301-0350
 [0344](./src/main/java/club/justwrite/java/algorithm/leetcode/p0301_p0350/LeetCode0344.java)		[0345](./src/main/java/club/justwrite/java/algorithm/leetcode/p0301_p0350/LeetCode0345.java)		[0349](./src/main/java/club/justwrite/java/algorithm/leetcode/p0301_p0350/LeetCode0349.java)		[0350](./src/main/java/club/justwrite/java/algorithm/leetcode/p0301_p0350/LeetCode0350.java)		
+## 0351-0400
+[0381](./src/main/java/club/justwrite/java/algorithm/leetcode/p0351_p0400/LeetCode0381.java)		
 ## 0401-0450
-[0415](./src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0415.java)		[0448](./src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0448.java)		
+[0405](./src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0405.java)		[0415](./src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0415.java)		[0448](./src/main/java/club/justwrite/java/algorithm/leetcode/p0401_p0450/LeetCode0448.java)		
 ## 0451-0500
 [0451](./src/main/java/club/justwrite/java/algorithm/leetcode/p0451_p0500/LeetCode0451.java)		[0463](./src/main/java/club/justwrite/java/algorithm/leetcode/p0451_p0500/LeetCode0463.java)		[0473](./src/main/java/club/justwrite/java/algorithm/leetcode/p0451_p0500/LeetCode0473.java)		
 ## 0501-0550
@@ -38,7 +40,7 @@
 ## 0851-0900
 [0867](./src/main/java/club/justwrite/java/algorithm/leetcode/p0851_p0900/LeetCode0867.java)		
 ## 0901-0950
-[0925](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0925.java)		[0949](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0949.java)		
+[0922](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0922.java)		[0925](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0925.java)		[0938](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0938.java)		[0949](./src/main/java/club/justwrite/java/algorithm/leetcode/p0901_p0950/LeetCode0949.java)		
 ## 0951-1000
 [0977](./src/main/java/club/justwrite/java/algorithm/leetcode/p0951_p1000/LeetCode0977.java)		
 ## 1001-1050
@@ -58,4 +60,4 @@
 ## 1451-1500
 [1464](./src/main/java/club/justwrite/java/algorithm/leetcode/p1451_p1500/LeetCode1464.java)		
 ## 1501-1550
-[1518](./src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java)		
+[1518](./src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java)		[1528](./src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1528.java)		

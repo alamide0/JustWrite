@@ -7,7 +7,7 @@ import java.util.LinkedList;
 
 /**
  * @author ACC
- * @desc
+ * @desc 错误
  * @create 2020/10/26
  **/
 public class LeetCode0844 {
