@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempsimple;
+package club.justwrite.java.algorithm.leetcode.p1501_p1550;
 
 import club.justwrite.java.io.Printer;
 
@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * @author ACC
- * @desc
+ * @desc 官方的题解，是先排序；运行时常比我这个快的多，效率高
  * @create 2020/10/27
  **/
 public class LeetCode1502 {

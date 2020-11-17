@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempsimple;
+package club.justwrite.java.algorithm.leetcode.p1451_p1500;
 
 import club.justwrite.java.io.Printer;
 

@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempsimple;
+package club.justwrite.java.algorithm.leetcode.p0751_p0800;
 
 import club.justwrite.java.algorithm.leetcode.TreeNode;
 import club.justwrite.java.io.Printer;
@@ -16,21 +16,31 @@ public class LeetCode0783 {
     }
 
     private static class Solution {
+
+        private int prev;
+        private boolean hasSet = false;
+
         public int minDiffInBST(TreeNode root) {
+            hasSet = false;
             int[] res = new int[]{Integer.MAX_VALUE};
-            dfs(root.left, root.val, res);
-            dfs(root.right, root.val, res);
+            dfs(root, res);
 
             return res[0];
         }
 
-        private void dfs(TreeNode root, int parentVal, int[] res) {
+        private void dfs(TreeNode root, int[] res) {
             if (root == null) return;
 
-            dfs(root.left, root.val, res);
-            Printer.print(root.val + ", " + parentVal);
-            res[0] = Math.min(Math.abs(parentVal - root.val), res[0]);
-            dfs(root.right, root.val, res);
+            dfs(root.left, res);
+
+            if (!hasSet) {
+                hasSet = true;
+            } else {
+                res[0] = Math.min(Math.abs(prev - root.val), res[0]);
+            }
+
+            prev = root.val;
+            dfs(root.right, res);
         }
     }
 }

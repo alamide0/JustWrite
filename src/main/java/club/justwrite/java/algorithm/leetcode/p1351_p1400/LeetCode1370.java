@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempsimple;
+package club.justwrite.java.algorithm.leetcode.p1351_p1400;
 
 import club.justwrite.java.io.Printer;
 
@@ -47,7 +47,7 @@ public class LeetCode1370 {
                             count++;
                         }
                     }
-                    step1 = false;
+                    step1 = true;
                 }
             }
 

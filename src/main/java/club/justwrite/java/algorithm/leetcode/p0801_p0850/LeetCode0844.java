@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempsimple;
+package club.justwrite.java.algorithm.leetcode.p0801_p0850;
 
 import club.justwrite.java.io.Printer;
 
@@ -18,6 +18,8 @@ public class LeetCode0844 {
         Printer.print(solution.backspaceCompare("ab##", "c#d#"));
         Printer.print(solution.backspaceCompare("a##c", "#a#c"));
         Printer.print(solution.backspaceCompare("a#c", "b"));
+
+        Printer.print(solution.backspaceCompare("abcd", "bbcd"));
     }
 
     static class Solution {
@@ -47,7 +49,8 @@ public class LeetCode0844 {
 
             if (stack1.size() != stack2.size()) return false;
 
-            for (int i = 0; i < stack1.size(); i++) {
+            int size = stack1.size();
+            for (int i = 0; i < size; i++) {
                 if (stack1.pop() != stack2.pop()) {
                     return false;
                 }

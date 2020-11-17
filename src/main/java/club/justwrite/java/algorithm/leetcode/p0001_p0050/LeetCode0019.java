@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempmiddle;
+package club.justwrite.java.algorithm.leetcode.p0001_p0050;
 
 import club.justwrite.java.algorithm.leetcode.ListNode;
 import club.justwrite.java.io.Printer;
@@ -12,7 +12,7 @@ public class LeetCode0019 {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        ListNode.printListNode(solution.removeNthFromEnd(ListNode.generateListNode(1, 2, 3, 4, 5, 6, 7), 1));
+        ListNode.printListNode(solution.removeNthFromEnd(ListNode.generateListNode(1), 1));
     }
 
 
@@ -20,24 +20,22 @@ public class LeetCode0019 {
         public ListNode removeNthFromEnd(ListNode head, int n) {
             int count = 1;
             ListNode fast = head;
-            ListNode slow = head;
-            ListNode prev = head;
+            ListNode slow = new ListNode(0, head);
+            ListNode newHeader = slow;
 
             while (count < n) {
                 fast = fast.next;
                 count++;
             }
 
-            while (true) {
+            while (fast.next != null) {
                 fast = fast.next;
-                if (fast == null) break;
-                prev = slow;
                 slow = slow.next;
             }
 
-            prev.next = slow.next;
+            slow.next = slow.next.next;
 
-            return prev == head ? prev.next : head;
+            return newHeader.next;
         }
     }
 }
