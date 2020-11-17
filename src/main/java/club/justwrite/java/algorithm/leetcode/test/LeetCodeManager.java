@@ -39,20 +39,36 @@ public class LeetCodeManager {
         List<String> dirList = new ArrayList<>();
 
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(INDEXER_PATH));
-        bufferedWriter.write("# LeetCode Indexer\n");
 
         String pattern = "^p\\d{4}_p\\d{4}$";
+        String patternTmp = "^ptemp\\w+$";
+
+        int tempCount = 0;
+        int tempFollwingCount = 0;
         for (File f : files) {
+
+            if (f.getName().equals("ptemphard")) {
+                File[] fs = new File(f.getAbsolutePath()).listFiles();
+                tempFollwingCount += fs == null ? 0 : fs.length;
+                continue;
+            }
+            if (f.isDirectory() && Pattern.matches(patternTmp, f.getName())) {
+                File[] fs = new File(f.getAbsolutePath()).listFiles();
+                tempCount += fs == null ? 0 : fs.length;
+            }
             if (!f.isDirectory() || !Pattern.matches(pattern, f.getName())) continue;
             dirList.add(f.getAbsolutePath());
         }
 
         Collections.sort(dirList);
 
+        StringBuilder stringBuilder = new StringBuilder();
+        int fileCount = 0;
+
         for (String dir : dirList) {
             String simpleName = dir.substring(DIR_PATH.length() + 1);
-            bufferedWriter.write("## " + simpleName.substring(1, 5) + "-" + simpleName.substring(7));
-            bufferedWriter.newLine();
+            stringBuilder.append("## ").append(simpleName, 1, 5).append("-").append(simpleName.substring(7));
+            stringBuilder.append("\n");
             File[] fs = new File(dir).listFiles();
 
             List<String> fileList = new ArrayList<>(fs.length);
@@ -64,15 +80,19 @@ public class LeetCodeManager {
 
             int count = 0;
             for (String fn : fileList) {
-                bufferedWriter.write("[" + fn.substring("LeetCode".length(), "LeetCode".length() + 4) + "](" + "./src/main/java/club/justwrite/java/algorithm/leetcode/" + simpleName + "/" + fn + ")\t\t");
+                stringBuilder.append("[").append(fn, "LeetCode".length(), "LeetCode".length() + 4).append("](").append("./src/main/java/club/justwrite/java/algorithm/leetcode/").append(simpleName).append("/").append(fn).append(")\t\t");
+                fileCount++;
                 count++;
                 if (count / 10 == 1) {
                     count = 1;
-                    bufferedWriter.write("\n\n");
+                    stringBuilder.append("\n\n");
                 }
             }
-            bufferedWriter.newLine();
+            stringBuilder.append("\n");
         }
+
+        stringBuilder.insert(0, "# LeetCode Indexer, commit " + fileCount + ", not commit " + tempCount + ", following " + tempFollwingCount + "\n");
+        bufferedWriter.write(stringBuilder.toString());
 
         bufferedWriter.flush();
         bufferedWriter.close();
@@ -174,15 +194,17 @@ public class LeetCodeManager {
 
 
     private String fillNum(int n) {
-        if (n < 10) {
-            return "000" + n;
-        } else if (n < 100) {
-            return "00" + n;
-        } else if (n < 1000) {
-            return "0" + n;
-        } else {
-            return String.valueOf(n);
-        }
+
+        return String.format("%04d", n);
+//        if (n < 10) {
+//            return "000" + n;
+//        } else if (n < 100) {
+//            return "00" + n;
+//        } else if (n < 1000) {
+//            return "0" + n;
+//        } else {
+//            return String.valueOf(n);
+//        }
     }
 
     private List<String> findFiles(String dir) {
