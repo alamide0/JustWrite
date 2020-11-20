@@ -27,6 +27,7 @@ public class ListNode {
 
     public static ListNode generateListNode(int... ns) {
 
+        if (ns.length == 0) return null;
         ListNode head = new ListNode(ns[0]);
         ListNode tag = head;
         for (int i = 1; i < ns.length; i++) {

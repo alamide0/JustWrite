@@ -33,6 +33,9 @@ public class TreeNode {
 
 
     public static TreeNode generate(Integer... ns) {
+
+        if (ns.length == 0) return null;
+
         int size = 0;
 
         Deque<TreeNode> treeNodeDeque = new LinkedList<>();
