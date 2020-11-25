@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptoday;
+package club.justwrite.java.algorithm.leetcode.p0001_p0050;
 
 import club.justwrite.java.io.Printer;
 

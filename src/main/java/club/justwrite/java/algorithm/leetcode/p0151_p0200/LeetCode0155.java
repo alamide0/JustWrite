@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptoday;
+package club.justwrite.java.algorithm.leetcode.p0151_p0200;
 
 import java.util.Deque;
 import java.util.LinkedList;
