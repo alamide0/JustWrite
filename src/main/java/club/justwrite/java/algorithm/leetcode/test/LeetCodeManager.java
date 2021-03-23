@@ -18,9 +18,10 @@ import java.util.regex.Pattern;
  **/
 public class LeetCodeManager {
 
-    private static final String DIR_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/algorithm/leetcode";
-    private static final String BLOG_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/blog/algorithm/leetcode";
-    private static final String INDEXER_PATH = "/Users/zhaoxiaosi/Documents/Private/Train/JustWrite/LeetCodeIndexer.md";
+    private static final String DIR_PREFIX = "/Users/zhaoxiaosi/Documents/PrivateCode/Web/Java/";
+    private static final String DIR_PATH = DIR_PREFIX + "JustWrite/src/main/java/club/justwrite/java/algorithm/leetcode";
+    private static final String BLOG_PATH = DIR_PREFIX +"JustWrite/blog/algorithm/leetcode";
+    private static final String INDEXER_PATH = DIR_PREFIX +"JustWrite/LeetCodeIndexer.md";
 
     public static void main(String[] args) {
         LeetCodeManager leetCodeManager = new LeetCodeManager();
