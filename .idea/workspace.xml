@@ -1,29 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="fe79df05-55a1-4ed5-99a3-504257866ea1" name="Revert &quot;index：提交README.md&quot;" comment="Revert &quot;index：提交README.md&quot;&#10;&#10;This reverts commit a6c8269" />
-    <list default="true" id="dd3a8ad8-40ca-4684-b2b2-a77d46ff28e5" name="Default" comment="index：提交README.md">
+    <list default="true" id="dd3a8ad8-40ca-4684-b2b2-a77d46ff28e5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0767.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JustWrite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JustWrite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0104.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeIndexer.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeIndexer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempmiddle/LeetCode0079.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0079.java" afterDir="false" />
     </list>
+    <list id="fe79df05-55a1-4ed5-99a3-504257866ea1" name="Revert &quot;index：提交README.md&quot;" comment="Revert &quot;index：提交README.md&quot;&#10;&#10;This reverts commit a6c8269" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/execute_processor/target/" />
@@ -40,20 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCodeManager.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java">
+      <file leaf-file-name="LeetCode0842.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode1518.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+            <state relative-caret-position="615">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,15 +48,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <file leaf-file-name="LeetCode0861.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8610">
-              <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
+            <state relative-caret-position="645">
+              <caret line="43" column="9" selection-start-line="17" selection-start-column="7" selection-end-line="43" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0118.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
               <folding>
-                <element signature="e#22786#22787#0" expanded="true" />
-                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0860.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="9" selection-start-line="20" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0649.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="46" column="52" selection-start-line="21" selection-start-column="11" selection-end-line="46" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0049.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="39" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0738.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode0665.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2475">
+              <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9630">
+              <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -99,7 +163,6 @@
       <find>acquire(</find>
       <find>putV</find>
       <find>entrySet</find>
-      <find>table =</find>
       <find>put</find>
       <find>toString</find>
       <find>put(</find>
@@ -114,6 +177,9 @@
       <find>remove</find>
       <find>equals</find>
       <find>equals(</find>
+      <find>table</find>
+      <find>table =</find>
+      <find>elementData =</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,57 +188,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0001.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0209.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0209-长度最小的子数组.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/T.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0515.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1071.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0415.java" />
-        <option value="$PROJECT_DIR$/blog/life/第二次面试.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/serialize/gson/GsonTrain.java" />
-        <option value="$PROJECT_DIR$/blog/android/Android-事件分发机制.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0718.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0108.java" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0180-将有序数组转换为二叉搜索树.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0415-字符串相加.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0515-在每个树行中找最大值.md" />
-        <option value="$PROJECT_DIR$/blog/algorithm/leetcode/LeetCode-0718-最长重复子数组.md" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0104.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0525.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode1374.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0112.java" />
         <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/DFA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0101.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0143.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0111.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0110.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0651_p0700/LeetCode0662.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0171.java" />
         <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0234.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0867.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0925.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0628.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0028.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0763.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1518.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0232.java" />
-        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0147.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0155.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0069.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0168.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0038.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0107.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempsimple/LeetCode0198.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0452.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0389.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0371.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0258.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0217.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0219.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0222.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeerCode0374.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0257.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0387.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0263.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0404.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0383.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode1413.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0633.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0917.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0164.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0342.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0442.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0006.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0454.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0011.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0018.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0039.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0039.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0767.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0034.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0767.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0079.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0204.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0062.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java" />
+        <option value="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java" />
       </list>
     </option>
   </component>
@@ -258,10 +324,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-2560" />
-    <option name="y" value="-220" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,8 +333,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,121 +346,12 @@
             <path>
               <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
               <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="p1501_p1550" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JustWrite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="club" type="462c0819:PsiDirectoryNode" />
-              <item name="justwrite" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="JustWrite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,12 +367,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode" />
       <recent name="$PROJECT_DIR$/blog/image" />
       <recent name="$PROJECT_DIR$/lib" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="club.justwrite.java.algorithm.leetcode.ptempfollow" />
       <recent name="club.justwrite.annotation" />
       <recent name="" />
       <recent name="club.justwrite.run" />
@@ -442,117 +399,113 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCodeManager">
-    <configuration name="LeetCode0232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0232" />
+  <component name="RunManager" selected="Application.LeetCode0665">
+    <configuration name="LeetCode0118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0118" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LeetCode0763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode0763" />
+    <configuration name="LeetCode0649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0649" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LeetCode1518 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.p1501_p1550.LeetCode1518" />
+    <configuration name="LeetCode0665" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0665" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.p1501_p1550.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LeetCode1518" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.LeetCode1518" />
+    <configuration name="LeetCode0860" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0860" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="LeetCodeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.test.LeetCodeManager" />
+    <configuration name="LeetCode0861" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0861" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.test.*" />
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode0763" />
-      <item itemvalue="Application.LeetCode1518" />
-      <item itemvalue="Application.LeetCode0232" />
-      <item itemvalue="Application.LeetCodeManager" />
-      <item itemvalue="Application.LeetCode1518 (1)" />
+      <item itemvalue="Application.LeetCode0861" />
+      <item itemvalue="Application.LeetCode0118" />
+      <item itemvalue="Application.LeetCode0860" />
+      <item itemvalue="Application.LeetCode0649" />
+      <item itemvalue="Application.LeetCode0665" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCodeManager" />
-        <item itemvalue="Application.LeetCode1518 (1)" />
-        <item itemvalue="Application.LeetCode0232" />
-        <item itemvalue="Application.LeetCode1518" />
-        <item itemvalue="Application.LeetCode0763" />
+        <item itemvalue="Application.LeetCode0665" />
+        <item itemvalue="Application.LeetCode0649" />
+        <item itemvalue="Application.LeetCode0860" />
+        <item itemvalue="Application.LeetCode0118" />
+        <item itemvalue="Application.LeetCode0861" />
       </list>
     </recent_temporary>
   </component>
@@ -621,7 +574,51 @@
       <workItem from="1603162036928" duration="2955000" />
       <workItem from="1603170997071" duration="4214000" />
       <workItem from="1603249489329" duration="6683000" />
-      <workItem from="1603333330501" duration="5027000" />
+      <workItem from="1603333330501" duration="5989000" />
+      <workItem from="1603416440148" duration="9832000" />
+      <workItem from="1603618225793" duration="23593000" />
+      <workItem from="1603723486967" duration="158000" />
+      <workItem from="1603762851916" duration="5507000" />
+      <workItem from="1603787637993" duration="3753000" />
+      <workItem from="1603848039110" duration="10876000" />
+      <workItem from="1603872343197" duration="8182000" />
+      <workItem from="1603941691991" duration="15528000" />
+      <workItem from="1604038821996" duration="17304000" />
+      <workItem from="1604288969866" duration="13473000" />
+      <workItem from="1604329967553" duration="10554000" />
+      <workItem from="1604381607559" duration="2200000" />
+      <workItem from="1604391192734" duration="2987000" />
+      <workItem from="1604398525663" duration="7415000" />
+      <workItem from="1604466724597" duration="1838000" />
+      <workItem from="1604481014336" duration="536000" />
+      <workItem from="1604540292103" duration="6691000" />
+      <workItem from="1604567268739" duration="8293000" />
+      <workItem from="1604707214242" duration="18330000" />
+      <workItem from="1604985779110" duration="3813000" />
+      <workItem from="1604994718737" duration="4712000" />
+      <workItem from="1605253836995" duration="2256000" />
+      <workItem from="1605508205998" duration="1131000" />
+      <workItem from="1605597285608" duration="915000" />
+      <workItem from="1605601970680" duration="6797000" />
+      <workItem from="1605668925024" duration="7156000" />
+      <workItem from="1605755740720" duration="3998000" />
+      <workItem from="1605763997584" duration="64000" />
+      <workItem from="1605777927316" duration="18562000" />
+      <workItem from="1606097055816" duration="20343000" />
+      <workItem from="1606208564732" duration="647000" />
+      <workItem from="1606282785071" duration="4689000" />
+      <workItem from="1606354955852" duration="14511000" />
+      <workItem from="1606442566765" duration="10408000" />
+      <workItem from="1606700586108" duration="899000" />
+      <workItem from="1606786916042" duration="4269000" />
+      <workItem from="1606963045949" duration="3811000" />
+      <workItem from="1607496553543" duration="8283000" />
+      <workItem from="1607675956202" duration="2654000" />
+      <workItem from="1607912802255" duration="1543000" />
+      <workItem from="1607998058211" duration="2924000" />
+      <workItem from="1612684610785" duration="2816000" />
+      <workItem from="1612840604772" duration="1217000" />
+      <workItem from="1613031157540" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm: 完成 LeetCode 1342">
       <created>1591967774933</created>
@@ -791,11 +788,137 @@
       <option name="project" value="LOCAL" />
       <updated>1603165473220</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="backup：备份">
+      <created>1603360486082</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1603360486083</updated>
+    </task>
+    <task id="LOCAL-00026" summary="backup：备份">
+      <created>1603435555842</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603435555843</updated>
+    </task>
+    <task id="LOCAL-00027" summary="backup：备份">
+      <created>1603435997953</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603435997953</updated>
+    </task>
+    <task id="LOCAL-00028" summary="backup：备份">
+      <created>1603436117413</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436117413</updated>
+    </task>
+    <task id="LOCAL-00029" summary="backup：备份">
+      <created>1603436487135</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436487135</updated>
+    </task>
+    <task id="LOCAL-00030" summary="backup：备份">
+      <created>1603436592106</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436592106</updated>
+    </task>
+    <task id="LOCAL-00031" summary="backup：备份">
+      <created>1604023885984</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1604023885985</updated>
+    </task>
+    <task id="LOCAL-00032" summary="backup：备份">
+      <created>1604023906595</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1604023906595</updated>
+    </task>
+    <task id="LOCAL-00033" summary="backup：备份">
+      <created>1604240234395</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1604240234396</updated>
+    </task>
+    <task id="LOCAL-00034" summary="backup：备份">
+      <created>1604240248209</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1604240248209</updated>
+    </task>
+    <task id="LOCAL-00035" summary="backup：备份">
+      <created>1605598141806</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1605598141806</updated>
+    </task>
+    <task id="LOCAL-00036" summary="backup：备份">
+      <created>1605598161464</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1605598161464</updated>
+    </task>
+    <task id="LOCAL-00037" summary="backup：备份">
+      <created>1605598169049</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1605598169049</updated>
+    </task>
+    <task id="LOCAL-00038" summary="backup：备份">
+      <created>1605764022791</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1605764022791</updated>
+    </task>
+    <task id="LOCAL-00039" summary="backup：备份">
+      <created>1605764035594</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1605764035594</updated>
+    </task>
+    <task id="LOCAL-00040" summary="backup：备份">
+      <created>1605868647002</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1605868647002</updated>
+    </task>
+    <task id="LOCAL-00041" summary="backup：备份">
+      <created>1606293949096</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1606293949096</updated>
+    </task>
+    <task id="LOCAL-00042" summary="backup：备份">
+      <created>1606293955132</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1606293955132</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485621000" />
+    <option name="totallyTimeSpent" value="782487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,25 +930,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-220" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
       <window_info anchor="right" id="ASMPlugin" order="8" weight="0.45543346" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32820514" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50061053" side_tool="true" weight="0.32923076" />
       <window_info anchor="right" id="Maven Projects" order="9" weight="0.3294621" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32820514" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.23223443" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.16703297" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.21538462" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32820514" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.14853057" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.18620269" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Structure" order="1" sideWeight="0.50239235" side_tool="true" weight="0.14813344" />
@@ -838,6 +960,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32820514" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32923076" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24969475" />
@@ -903,7 +1026,25 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0024.java</url>
+          <line>12</line>
+          <properties class="club.justwrite.java.algorithm.leetcode.ptempsimple.LeetCode0024" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java</url>
+          <line>14</line>
+          <properties class="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0842" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -911,382 +1052,213 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0043.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0949.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0226.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/NavigableMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/SortedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="121" column="11" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2745">
-          <caret line="216" column="6" selection-start-line="216" selection-start-column="6" selection-end-line="216" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/LeetCode0525.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0451.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="56" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1464.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1344.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10710">
-          <caret line="740" column="14" selection-start-line="740" selection-start-column="14" selection-end-line="740" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0662.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0168.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0038.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Deque.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4485">
-          <caret line="332" column="6" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0647.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2475">
-          <caret line="165" column="29" selection-start-line="165" selection-start-column="29" selection-end-line="165" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6570">
-          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/Temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="85" selection-start-line="19" selection-start-column="85" selection-end-line="19" selection-end-column="85" />
+        <state relative-caret-position="2385">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2190">
-          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        <state relative-caret-position="8415">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/DFA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0107.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0452.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0389.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0371.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0258.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0217.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0219.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0222.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0257.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0387.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0263.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0404.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0383.java" />
+    <entry file="file://$PROJECT_DIR$/中台Android数据统计SDK交接文档.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0374.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode1413.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0633.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0917.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0342.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0164.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0442.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0006.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempsimple/LeetCode0198.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+        <state relative-caret-position="465">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0590.java">
+    <entry file="file://$PROJECT_DIR$/LeetCodeIndexer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="795">
+            <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0454.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="2070">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0011.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0018.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="645">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JustWrite.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0143.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0101.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0110.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0651_p0700/LeetCode0662.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/Tester.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0039.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p0101_p0150/LeetCode0143.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0034.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="600">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ListNode.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="8160">
+          <caret line="586" column="13" selection-start-line="586" selection-start-column="13" selection-end-line="586" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0234.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0767.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1140">
+          <caret line="81" column="9" selection-start-line="21" selection-start-column="7" selection-end-line="81" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0867.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0079.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="465">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0204.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="37" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0062.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8610">
-          <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
-          <folding>
-            <element signature="e#22786#22787#0" expanded="true" />
-            <element signature="e#22821#22822#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="28290">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0925.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="70" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0628.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0028.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0763.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="159" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="159" />
+        <state relative-caret-position="615">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode1518.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9630">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="9" selection-start-line="17" selection-start-column="7" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="9" selection-start-line="20" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="46" column="52" selection-start-line="21" selection-start-column="11" selection-end-line="46" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/LeetCode0232.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#1541#1542#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
-            <element signature="e#1685#1686#0" expanded="true" />
-            <element signature="e#1725#1726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/p1501_p1550/LeetCode1518.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="66" lean-forward="true" selection-start-column="66" selection-end-column="66" />
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/test/LeetCodeManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="97" column="58" selection-start-line="97" selection-start-column="58" selection-end-line="97" selection-end-column="58" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>

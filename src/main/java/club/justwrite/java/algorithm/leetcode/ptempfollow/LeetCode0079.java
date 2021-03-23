@@ -1,4 +1,4 @@
-package club.justwrite.java.algorithm.leetcode.ptempmiddle;
+package club.justwrite.java.algorithm.leetcode.ptempfollow;
 
 import club.justwrite.java.io.Printer;
 
