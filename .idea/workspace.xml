@@ -1,144 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd3a8ad8-40ca-4684-b2b2-a77d46ff28e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0767.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0062.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0204.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java" afterDir="false" />
+    <list default="true" id="dd3a8ad8-40ca-4684-b2b2-a77d46ff28e5" name="Default" comment="backup：备份">
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempsimple/LeetCode0476.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0341.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0461.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeIndexer.md" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeIndexer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempmiddle/LeetCode0079.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptempfollow/LeetCode0079.java" afterDir="false" />
     </list>
     <list id="fe79df05-55a1-4ed5-99a3-504257866ea1" name="Revert &quot;index：提交README.md&quot;" comment="Revert &quot;index：提交README.md&quot;&#10;&#10;This reverts commit a6c8269" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/execute_processor/target/" />
-    <ignored path="$PROJECT_DIR$/execute_annoation/target/" />
-    <ignored path="$PROJECT_DIR$/AnotationProcessor/target/" />
-    <ignored path="$PROJECT_DIR$/router_annotation/target/" />
-    <ignored path="$PROJECT_DIR$/router_compiler/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode0842.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0842.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0861.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0861.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="9" selection-start-line="17" selection-start-column="7" selection-end-line="43" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0118.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0118.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0860.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0860.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="9" selection-start-line="20" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0649.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0649.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="46" column="52" selection-start-line="21" selection-start-column="11" selection-end-line="46" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0049.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0049.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="9" selection-start-line="16" selection-start-column="7" selection-end-line="39" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0738.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0738.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode0665.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/club/justwrite/java/algorithm/leetcode/ptoday/LeetCode0665.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2475">
-              <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9630">
-              <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -248,13 +124,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -327,6 +196,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectId" id="1q980Nt9QiArDWojbbbzAUOH0S2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -354,16 +224,27 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Array&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ArrayL&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Temp&#9;FILE&#9;file:///Users/zhaoxiaosi/Documents/Private/Train/JustWrite/src/main/java/club/justwrite/java/Temp.java&#10;ProceedingJoinPoint&#9;PSI&#9;JAVA://org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint&#10;TypeKin&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/javax/lang/model/type/TypeKind.java&#10;Modifier&#9;PSI&#9;JAVA://java.lang.reflect.Modifier&#10;Fi&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/nio/file/FileSystem.java&#10;FileUtil&#9;PSI&#9;JAVA://club.justwrite.java.io.FileUtils&#10;BufferWr&#9;PSI&#9;JAVA://java.io.BufferedWriter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -372,13 +253,6 @@
       <recent name="$PROJECT_DIR$/blog/image" />
       <recent name="$PROJECT_DIR$/lib" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="club.justwrite.java.algorithm.leetcode.ptempfollow" />
-      <recent name="club.justwrite.annotation" />
-      <recent name="" />
-      <recent name="club.justwrite.run" />
-      <recent name="annotation" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/blog/java" />
       <recent name="$PROJECT_DIR$/blog/java/base/collection" />
@@ -386,27 +260,36 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/blog/algorithm/leetcode" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="club.justwrite.java.algorithm.leetcode.ptempfollow" />
+      <recent name="club.justwrite.annotation" />
+      <recent name="" />
+      <recent name="club.justwrite.run" />
+      <recent name="annotation" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.LeetCode0665">
-    <configuration name="LeetCode0118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0118" />
+  <component name="RunManager" selected="Application.LeetCode0476">
+    <configuration name="LeetCode0461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0461" />
       <module name="JustWrite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode0476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptempsimple.LeetCode0476" />
+      <module name="JustWrite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptempsimple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,22 +339,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode0861" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.justwrite.java.algorithm.leetcode.ptoday.LeetCode0861" />
-      <module name="JustWrite" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.justwrite.java.algorithm.leetcode.ptoday.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -493,22 +373,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode0861" />
-      <item itemvalue="Application.LeetCode0118" />
       <item itemvalue="Application.LeetCode0860" />
       <item itemvalue="Application.LeetCode0649" />
       <item itemvalue="Application.LeetCode0665" />
+      <item itemvalue="Application.LeetCode0461" />
+      <item itemvalue="Application.LeetCode0476" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode0476" />
+        <item itemvalue="Application.LeetCode0461" />
         <item itemvalue="Application.LeetCode0665" />
         <item itemvalue="Application.LeetCode0649" />
         <item itemvalue="Application.LeetCode0860" />
-        <item itemvalue="Application.LeetCode0118" />
-        <item itemvalue="Application.LeetCode0861" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -619,6 +500,7 @@
       <workItem from="1612684610785" duration="2816000" />
       <workItem from="1612840604772" duration="1217000" />
       <workItem from="1613031157540" duration="436000" />
+      <workItem from="1616480226321" duration="3190000" />
     </task>
     <task id="LOCAL-00001" summary="algorithm: 完成 LeetCode 1342">
       <created>1591967774933</created>
@@ -914,7 +796,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606293955132</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="backup：备份">
+      <created>1616480290992</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1616480290992</updated>
+    </task>
+    <task id="LOCAL-00044" summary="backup：备份">
+      <created>1616480306719</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1616480306719</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -968,36 +864,19 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algorithm: 完成 LeetCode 1342" />
@@ -1044,7 +923,6 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
