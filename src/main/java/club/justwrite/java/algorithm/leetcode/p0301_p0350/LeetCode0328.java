@@ -1,7 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p0301_p0350;
 
 import club.justwrite.java.algorithm.leetcode.ListNode;
-import club.justwrite.java.io.Printer;
 
 /**
  * @author ACC

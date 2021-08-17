@@ -61,7 +61,7 @@ public class RouterProcessor extends AbstractProcessor {
 
             PathMapping pathMapping = new PathMapping();
 
-            TypeElement typeElement0 = processingEnv.getElementUtils().getTypeElement("club.justwrite.java.io.IFindClasses");
+            TypeElement typeElement0 = processingEnv.getElementUtils().getTypeElement("club.justwrite.java.base.io.IFindClasses");
 
             logger.info(typeElement0.getQualifiedName().toString());
             logger.info(typeElement0.getEnclosingElement() + "");

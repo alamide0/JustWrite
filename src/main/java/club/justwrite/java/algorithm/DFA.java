@@ -12,7 +12,7 @@ import java.util.Set;
  **/
 public class DFA {
 
-    private Map<String, Object> tree = new HashMap<>();
+    private final Map<String, Object> tree = new HashMap<>();
 
     public void generateSensitiveTree(Set<String> words) {
         for (String word : words) {

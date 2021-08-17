@@ -1,14 +1,8 @@
 package club.justwrite.java.algorithm.leetcode.p0101_p0150;
 
-import club.justwrite.java.algorithm.leetcode.ListNode;
 import club.justwrite.java.algorithm.leetcode.TreeNode;
 
-import club.justwrite.java.io.Printer;
-
-import java.util.Deque;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.Map;
+import club.justwrite.java.base.io.Printer;
 
 /**
  * @author ACC

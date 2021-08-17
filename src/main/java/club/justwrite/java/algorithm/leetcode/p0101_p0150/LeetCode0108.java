@@ -1,7 +1,5 @@
 package club.justwrite.java.algorithm.leetcode.p0101_p0150;
 
-import club.justwrite.java.io.Printer;
-
 import java.util.ArrayDeque;
 
 /**

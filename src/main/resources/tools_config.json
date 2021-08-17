@@ -1,0 +1,34 @@
+{
+  "navigator": [
+    {
+      "desc": "记录睡眠的小工具",
+      "path": "ci123apps://www.ci123.com/tools/sleep",
+      "target_class_path": "com.ci123.pregnancywap.tools.sleep.SleepRecordActivity"
+    },
+    {
+      "desc": "记录尿布",
+      "path": "ci123apps://www.ci123.com/tools/diaper",
+      "target_class_path": "com.ci123.pregnancywap.tools.diaper.DiaperActivity"
+    },
+    {
+      "desc": "每日喝水",
+      "path": "ci123apps://www.ci123.com/tools/water",
+      "target_class_path": "com.ci123.pregnancywap.tools.water.WaterNoticeActivity"
+    },
+    {
+      "desc": "喂养的历史记录页，条形图",
+      "path": "ci123apps://www.ci123.com/tools/chart/feed/rectangle",
+      "target_class_path": "com.ci123.pregnancy.tools.feedrecord.BabyFeedRecordActivity"
+    },
+    {
+      "desc": "喂养的历史记录，饼图",
+      "path": "ci123apps://www.ci123.com/tools/chart/feed/pie",
+      "target_class_path": "com.ci123.pregnancy.tools.feedrecord.BabyFeedDetailActivity"
+    },
+    {
+      "desc": "记录喂奶页面",
+      "path": "ci123apps://www.ci123.com/tools/raise",
+      "target_class_path": "com.ci123.pregnancywap.tools.raise.RaiseActivity"
+    }
+  ]
+}

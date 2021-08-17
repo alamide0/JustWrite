@@ -1,6 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p1501_p1550;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 import java.util.HashSet;
 import java.util.Set;

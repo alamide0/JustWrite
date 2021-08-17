@@ -1,6 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.ptempsimple;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 public class LeetCode0476 {
 

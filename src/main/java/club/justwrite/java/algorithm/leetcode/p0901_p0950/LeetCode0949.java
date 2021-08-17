@@ -1,9 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p0901_p0950;
 
-import club.justwrite.java.algorithm.leetcode.ListNode;
-import club.justwrite.java.algorithm.leetcode.TreeNode;
-
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 import java.util.Arrays;
 

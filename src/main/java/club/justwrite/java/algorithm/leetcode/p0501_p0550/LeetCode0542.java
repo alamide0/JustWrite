@@ -1,8 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p0501_p0550;
 
-import club.justwrite.java.io.Printer;
-
-import java.util.Arrays;
+import club.justwrite.java.base.io.Printer;
 
 /**
  * @author ACC

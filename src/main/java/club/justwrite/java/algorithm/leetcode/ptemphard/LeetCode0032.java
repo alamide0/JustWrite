@@ -1,9 +1,5 @@
 package club.justwrite.java.algorithm.leetcode.ptemphard;
 
-import club.justwrite.java.io.Printer;
-
-import java.util.Stack;
-
 /**
  * @author ACC
  * @desc

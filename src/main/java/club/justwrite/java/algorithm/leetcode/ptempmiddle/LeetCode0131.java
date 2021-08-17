@@ -1,10 +1,9 @@
 package club.justwrite.java.algorithm.leetcode.ptempmiddle;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 /**

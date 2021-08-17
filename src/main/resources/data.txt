@@ -1,1 +1,176 @@
-["<p>\t食材准备：苹果一只，酸奶100g</p><p>\t<img alt=\"\" src=\"https://static.ladybirdedu.com/upload_new/images/common/2020/03/10/dYsNpbUkExFTCodi.jpeg\" style=\"width: 1920px; height: 1080px;\"></p>", "<p>\t苹果洗净，去皮切碎</p><p>\t<img alt=\"\" src=\"https://static.ladybirdedu.com/upload_new/images/common/2020/03/10/CYjF2sYEdDJTFlG4.jpeg\" style=\"width: 1920px; height: 1080px;\"></p>", "<p>\t将苹果碎、酸奶放入搅拌机中搅拌均匀</p><p>\t<img alt=\"\" src=\"https://static.ladybirdedu.com/upload_new/images/common/2020/03/10/ITynydp0zctnwRgA.jpeg\" style=\"width: 1920px; height: 1080px;\"></p>", "<p>\t成品展示</p><p>\t<img alt=\"\" src=\"https://static.ladybirdedu.com/upload_new/images/common/2020/03/10/M2bhyp2hWhysQ9h5.jpeg\" style=\"width: 1920px; height: 1080px;\"></p>"]
+# 内部类牛🐂
+**可以将一个类定义在一个另一个类的内部，这就是内部类。**
+内部类是一种非常有用的特性，它允许你把一些逻辑相关的类组织在一起，并控制位于内部的类的可视性。
+内部类可以分为内部类和静态内部类（又称为嵌套类）。
+两者之间的区别如下：
+* 内部类与其外围类之间有联系，可以访问其外围类的所有成员（属性、方法等），内部类不能独立于外围类而独立存在，内部类不能有 static 数据和字段。
+* 静态内部类与外围类之间无联系，不能访问外围类中非静态的对象，静态内部可以独立于外围类存在。
+
+## 为什么内部类能访问外围对象的所有成员
+先写这样一段代码，功能很简单，正向访问数据与逆向访问数据。
+```java
+
+interface Access {
+    int access(int index);
+}
+
+public class InnerClass {
+
+    public static void main(String[] args) {
+        InnerClass innerClass = new InnerClass();
+        innerClass.execute();
+    }
+
+
+    public void execute() {
+        InnerClass innerClass = new InnerClass();
+
+        Printer.print(innerClass.normalAccess().access(2));
+        Printer.print(innerClass.reverseAccess().access(2));
+
+
+        int d = 100;
+        int s = 1000;
+
+        Access res = new Access() {//InnnerClass$1.class
+
+            @Override
+            public int access(int index) {
+                return d + s;
+            }
+        };
+
+
+        Access res2 = new Access() {//InnnerClass$2.class
+
+            @Override
+            public int access(int index) {
+                checkBound(index);
+                return data[index];
+            }
+        };
+
+        res.access(3);
+        Printer.print(res.access(3));
+        Printer.print(res2.access(3));
+    }
+
+    private int[] data = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+    private void checkBound(int index) {
+        if (index < 0 || index >= data.length) {
+            throw new ArrayIndexOutOfBoundsException("index = " + index);
+        }
+    }
+
+    public Access normalAccess() {
+        return new NormalAccess();
+    }
+
+    public Access reverseAccess() {
+        return new ReverseAccess();
+    }
+
+    private class NormalAccess implements Access {//InnerClass$NormalAccess.class
+
+        @Override
+        public int access(int index) {
+            checkBound(index);
+            return data[index];
+        }
+    }
+
+    private class ReverseAccess implements Access {//InnerClass$ReverseAccess.class
+
+        @Override
+        public int access(int index) {
+            int destIndex = data.length - index - 1;
+            checkBound(destIndex);
+            return data[destIndex];
+        }
+    }
+}
+
+```
+编译后生成如下几个*class*文件，Access.class、InnerClass$1.class、InnerClass$2.class、InnerClass$NormalAccess.class、InnerClass$ReverseAccess.class
+、InnerClass.class
+先反编译 InnerClass.class、InnerClass$ReverseAccess.class、InnerClass$2.class、InnerClass$1.class
+
+```
+public class club.justwrite.java.book.InnerClass {
+  public club.justwrite.java.book.InnerClass();
+  public static void main(java.lang.String[]);
+  public club.justwrite.java.book.Access normalAccess();
+  public club.justwrite.java.book.Access reverseAccess();
+  static void access$200(club.justwrite.java.book.InnerClass, int);//checkBound
+  static int[] access$300(club.justwrite.java.book.InnerClass);//获取 data
+}
+
+class club.justwrite.java.book.InnerClass$ReverseAccess implements club.justwrite.java.book.Access {
+  final club.justwrite.java.book.InnerClass this$0;
+  public int access(int index)
+  {
+    int destIndex = InnerClass.access$300(this.this$0).length - index - 1;
+    InnerClass.access$200(this.this$0, destIndex);
+    return InnerClass.access$300(this.this$0)[destIndex];
+  }
+  club.justwrite.java.book.InnerClass$ReverseAccess(club.justwrite.java.book.InnerClass, club.justwrite.java.book.InnerClass$1);
+}
+
+
+class InnerClass$2
+  implements Access
+{
+  InnerClass$2(InnerClass this$0) {}
+
+  public int access(int index)
+  {
+    InnerClass.access$000(this.this$0, index);
+    return InnerClass.access$300(this.this$0)[index];
+  }
+}
+
+class InnerClass$1
+  implements Access
+{
+  InnerClass$1(InnerClass this$0, int paramInt1, int paramInt2) {}
+
+  public int access(int index)
+  {
+    return this.val$d + this.val$s;
+  }
+}
+
+```
+
+内部类自动拥有外围类的引用，由编译器自动注入。外围类对内部类需要用到的数据或方法生成相对应的 static 方法。内部类持有外围类的引用，这正是它们之间的联系所在。
+
+局部内部类和内部类差不多，InnerClass$1 和 InnerClass$2 是局部内部类编译后的生成。即 execute() 方法内的局部内部类。
+值得注意的是，使用到局部变量被从构造方法中注入，看 InnerClass$1.class。**这里也是为什么局部内部类，使用的局部变量
+必须为不可变(final 修饰)，因为局部内部类中保存的只是局部变量的副本，如果局部变量可变，会导致不可预料的后果！
+而使用到方法的外围类中的数据，和普通的内部类一致。** 使用的局部变量被从构造方法注入到局部内部类中，我觉得还有
+一个原因是，局部变量的生命周期是有限制的，方法执行完，局部变量需要被回收。
+
+
+
+## 为什么需要内部类？
+每个内部类都能独立地继承自一个（接口）的实现，所以无论外围类是否已经继承类某个（接口的）实现，对内部类都没有影响。
+内部类使得多重继承的解决方案变得完整。接口解决类部分多重继承的问题，而内部类有效的实现了"多重继承"。内部类允许
+继承多个非接口类型。
+
+在讨论这个问题是先来思考这样一个问题，ArrayList 的迭代器为什么要设计成内部类形式？为什么不是直接实现 Iterator 接口？
+这是因为内部类可以保存自身的状态，这样一个 ArrayList 可以同时被多个任务遍历（例如多线程），每个任务互不影响。如果不使用
+内部类，每次是能供一个任务遍历，而且还需要处理更多的事务（如遍历 cursor 的重制）。
+
+我对内部类的理解是，内部类是其外围类的一部分，它"继承"外围类的所有属性及功能并可拓展额外功能（可以实现"多重继承"的功能），且内部类可以有多个实例
+，每个实例之间彼此独立，很强大。
+
+下面是摘自 Thinking In Java 关于内部类的特性：
+* 内部类可以有多个实例，每个实例都有自己的状态信息，并且与外围类对象的信息相互独立。
+* 在单个外围类中，可以让多个内部类以不同的方式实现同一个接口，或继承同一个类。
+* 创建内部类对象的时刻并不依赖于外围类对象的创建。（这里感觉表述有点问题，内部类必须依附于外围类而存在）
+* 内部类并没有令人迷惑的 "is-a"关系，它就是一个独立的实体。（不理解）
+
+
+
+

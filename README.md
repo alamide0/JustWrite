@@ -1,4 +1,4 @@
-# JustWrite
+🐂# JustWrite
 
 ## 算法
 [LeetCode 题目](./LeetCodeIndexer.md)  

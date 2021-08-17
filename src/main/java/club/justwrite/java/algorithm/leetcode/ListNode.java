@@ -1,9 +1,5 @@
 package club.justwrite.java.algorithm.leetcode;
 
-import club.justwrite.java.io.Printer;
-
-import java.nio.file.Paths;
-
 /**
  * @author ACC
  * @desc

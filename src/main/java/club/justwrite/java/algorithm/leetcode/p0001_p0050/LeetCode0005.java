@@ -2,7 +2,6 @@ package club.justwrite.java.algorithm.leetcode.p0001_p0050;
 
 import club.justwrite.java.algorithm.leetcode.test.MainMethod;
 import club.justwrite.java.algorithm.leetcode.test.Tester;
-import club.justwrite.java.io.Printer;
 
 /**
  * @author ACC

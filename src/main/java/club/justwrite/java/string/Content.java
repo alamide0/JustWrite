@@ -1,6 +1,6 @@
 package club.justwrite.java.string;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 import com.google.gson.Gson;
 
 import java.util.ArrayList;

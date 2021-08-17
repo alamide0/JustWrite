@@ -1,6 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p1001_p1050;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 import java.util.Stack;
 

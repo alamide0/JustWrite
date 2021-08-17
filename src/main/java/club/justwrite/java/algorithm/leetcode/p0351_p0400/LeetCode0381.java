@@ -1,6 +1,6 @@
 package club.justwrite.java.algorithm.leetcode.p0351_p0400;
 
-import club.justwrite.java.io.Printer;
+import club.justwrite.java.base.io.Printer;
 
 import java.util.*;
 

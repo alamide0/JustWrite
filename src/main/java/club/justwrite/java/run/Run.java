@@ -1,10 +1,10 @@
 package club.justwrite.java.run;
 
-import club.justwrite.java.processor.Execute;
-import club.justwrite.java.io.ClassUtils;
-import club.justwrite.java.io.IFindClasses;
-import club.justwrite.java.io.Printer;
-import club.justwrite.java.proxy.CostTimeProxy;
+import club.justwrite.java.base.processor.Execute;
+import club.justwrite.java.base.io.ClassUtils;
+import club.justwrite.java.base.io.IFindClasses;
+import club.justwrite.java.base.io.Printer;
+import club.justwrite.java.base.proxy.CostTimeProxy;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationTargetException;
